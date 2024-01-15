@@ -18,9 +18,11 @@ hits : https://hits.seeyoufarm.com/
 simple icons : https://simpleicons.org/
 
 -->
+<!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric318)](https://solved.ac/eric318/)
 
 # Blog 🌊
 [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://life318.tistory.com)
+-->
 
 
